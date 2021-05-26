@@ -1,0 +1,50 @@
+<IfModule mod_rewrite.c>
+    <IfModule mod_negotiation.c>
+        Options -MultiViews -Indexes
+    </IfModule>
+
+    RewriteEngine On
+
+    # Handle Authorization Header
+    RewriteCond %{HTTP:Authorization} .
+    RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+
+    # Redirect Trailing Slashes If Not A Folder...
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_URI} (.+)/$
+    RewriteRule ^ %1 [L,R=301]
+
+    # Handle Front Controller...
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^ index.php [L]
+</IfModule>
+
+SetOutputFilter DEFLATE
+Header unset ETag
+FileETag None
+<FilesMatch "\.(js|css|ico|pdf|jpg|jpeg|png|gif|ttf|woff2|otf|woff|svg)$">
+Header set Cache-Control "public"
+Header set Expires "Thu, 15 Apr 2021 20:00:00 GMT"
+Header unset Last-Modified
+</FilesMatch>
+
+
+# Do the regex check against the URI here, if match, set the "require_auth" var
+SetEnvIf Request_URI ^/logging require_auth=true
+
+# Auth stuff
+AuthUserFile /var/www/vhosts/turnonet.com/turnonet.com/.htpasswd
+AuthName "Password Protected"
+AuthType Basic
+
+# Setup a deny/allow
+Order Deny,Allow
+# Deny from everyone
+Deny from all
+# except if either of these are satisfied
+Satisfy any
+# 1. a valid authenticated user
+Require valid-user
+# or 2. the "require_auth" var is NOT set
+Allow from env=!require_auth

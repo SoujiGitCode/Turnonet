@@ -1,0 +1,254 @@
+[2021-05-05 00:19:45] local.INFO: Recordatorio de turnos por correo (5 dias): 253  en la cola  
+[2021-05-05 00:24:02] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-05 00:32:02] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-05 00:45:03] local.INFO: Recordatorio de turnos por correo (para mañana): 772  en la cola  
+[2021-05-05 01:16:02] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-05 01:48:02] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-05 05:00:12] local.INFO: Reporte de turnos del dia 2021-05-05 para las 06:00:00:30  en la cola  
+[2021-05-05 05:48:02] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-05 06:00:07] local.INFO: Enviado a fmbrizuela@msn.com el reporte de turnos para 2021-05-05  
+[2021-05-05 06:00:08] local.INFO: Enviado a fmbrizuela@msn.com el reporte de turnos para 2021-05-05  
+[2021-05-05 06:00:09] local.INFO: Enviado a fmbrizuela@msn.com el reporte de turnos para 2021-05-05  
+[2021-05-05 06:00:10] local.INFO: Enviado a naspropiedades@gmail.com el reporte de turnos para 2021-05-05  
+[2021-05-05 06:00:11] local.INFO: Enviado a naspropiedades@gmail.com el reporte de turnos para 2021-05-05  
+[2021-05-05 06:00:11] local.INFO: Enviado a naspropiedades@gmail.com el reporte de turnos para 2021-05-05  
+[2021-05-05 06:00:12] local.INFO: Enviado a paulagchiappe@gmail.com el reporte de turnos para 2021-05-05  
+[2021-05-05 06:00:13] local.INFO: Enviado a paulagchiappe@gmail.com el reporte de turnos para 2021-05-05  
+[2021-05-05 06:00:13] local.INFO: Enviado a paulagchiappe@gmail.com el reporte de turnos para 2021-05-05  
+[2021-05-05 06:00:17] local.INFO: Enviado a cmininni@sodimac.com.uy el reporte de turnos para 2021-05-05  
+[2021-05-05 06:05:03] local.INFO: Enviado a glmartinez@sodimac.com.ar el reporte de turnos para 2021-05-05  
+[2021-05-05 06:05:03] local.INFO: Enviado a glmartinez@sodimac.com.ar el reporte de turnos para 2021-05-05  
+[2021-05-05 06:05:05] local.INFO: Enviado a dastella@sodimac.com.ar el reporte de turnos para 2021-05-05  
+[2021-05-05 06:05:05] local.INFO: Enviado a dastella@sodimac.com.ar el reporte de turnos para 2021-05-05  
+[2021-05-05 06:05:07] local.INFO: Enviado a dabaldi@sodimac.com.ar el reporte de turnos para 2021-05-05  
+[2021-05-05 06:05:07] local.INFO: Enviado a davherrera@sodimac.com.ar el reporte de turnos para 2021-05-05  
+[2021-05-05 06:05:08] local.INFO: Enviado a jcondori@sodimac.com.ar el reporte de turnos para 2021-05-05  
+[2021-05-05 06:05:09] local.INFO: Enviado a jcondori@sodimac.com.ar el reporte de turnos para 2021-05-05  
+[2021-05-05 06:05:10] local.INFO: Enviado a lwoltmann@sodimac.com.ar el reporte de turnos para 2021-05-05  
+[2021-05-05 06:05:11] local.INFO: Enviado a gbalbi@sodimac.com.ar el reporte de turnos para 2021-05-05  
+[2021-05-05 06:10:05] local.INFO: Enviado a danielroda_mp@yahoo.com.ar el reporte de turnos para 2021-05-05  
+[2021-05-05 06:10:06] local.INFO: Enviado a serviciotecnico@climaplat.com.ar el reporte de turnos para 2021-05-05  
+[2021-05-05 06:10:07] local.INFO: Enviado a lwoltmann@sodimac.com.ar el reporte de turnos para 2021-05-05  
+[2021-05-05 06:10:07] local.INFO: Enviado a lwoltmann@sodimac.com.ar el reporte de turnos para 2021-05-05  
+[2021-05-05 06:10:10] local.INFO: Enviado a edgardo.salatino@aerolineas.com.ar el reporte de turnos para 2021-05-05  
+[2021-05-05 06:10:11] local.INFO: Enviado a martin.rivera@aerolineas.com.ar el reporte de turnos para 2021-05-05  
+[2021-05-05 06:10:11] local.INFO: Enviado a walter.lamas@aerolineas.com.ar el reporte de turnos para 2021-05-05  
+[2021-05-05 06:40:05] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-05 06:56:03] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-05 07:48:02] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-05 08:00:06] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-05 08:00:32] local.INFO: Recordatorio de turnos por sms (para mañana): 47  en la cola  
+[2021-05-05 08:08:03] local.INFO: SMS enviado a 0111531733847  
+[2021-05-05 08:08:03] local.INFO: SMS enviado a 1130443226  
+[2021-05-05 08:08:03] local.INFO: SMS enviado a 11124866830  
+[2021-05-05 08:08:04] local.INFO: SMS enviado a 1555615916  
+[2021-05-05 08:08:04] local.INFO: SMS enviado a +541552268614  
+[2021-05-05 08:08:04] local.INFO: SMS enviado a 011155369647  
+[2021-05-05 08:08:04] local.INFO: SMS enviado a 2477597394  
+[2021-05-05 08:08:05] local.INFO: SMS enviado a 1160568541  
+[2021-05-05 08:08:05] local.INFO: SMS enviado a 1154529930  
+[2021-05-05 08:08:05] local.INFO: SMS enviado a 1134277446  
+[2021-05-05 08:08:05] local.INFO: SMS enviado a 2323516757  
+[2021-05-05 08:08:06] local.INFO: SMS enviado a 5491160256009  
+[2021-05-05 08:08:06] local.INFO: SMS enviado a 1158521425  
+[2021-05-05 08:08:06] local.INFO: SMS enviado a 1540427341  
+[2021-05-05 08:08:06] local.INFO: SMS enviado a 2323516757  
+[2021-05-05 08:08:07] local.INFO: SMS enviado a 1124520357  
+[2021-05-05 08:08:07] local.INFO: SMS enviado a 1137846050  
+[2021-05-05 08:08:07] local.INFO: SMS enviado a 1561204532  
+[2021-05-05 08:08:07] local.INFO: SMS enviado a 1157368144  
+[2021-05-05 08:08:07] local.INFO: SMS enviado a 1557367863  
+[2021-05-05 08:08:07] local.INFO: SMS enviado a +541131344908  
+[2021-05-05 08:08:08] local.INFO: SMS enviado a 1558037667  
+[2021-05-05 08:08:08] local.INFO: SMS enviado a +541564741340  
+[2021-05-05 08:08:08] local.INFO: SMS enviado a 1563541602  
+[2021-05-05 08:08:08] local.INFO: SMS enviado a 1544382466  
+[2021-05-05 08:08:08] local.INFO: SMS enviado a 1131813044  
+[2021-05-05 08:08:08] local.INFO: SMS enviado a +541155277543  
+[2021-05-05 08:08:09] local.INFO: SMS enviado a 1130101580  
+[2021-05-05 08:08:09] local.INFO: SMS enviado a +541556268118  
+[2021-05-05 08:08:09] local.INFO: SMS enviado a 1134585152  
+[2021-05-05 08:08:09] local.INFO: SMS enviado a 1144153028  
+[2021-05-05 08:08:09] local.INFO: SMS enviado a 1564692531  
+[2021-05-05 08:08:09] local.INFO: SMS no enviado, numero incorrecto: 54  
+[2021-05-05 08:08:09] local.INFO: SMS enviado a 1141969866  
+[2021-05-05 08:08:10] local.INFO: SMS enviado a +541156545529  
+[2021-05-05 08:08:10] local.INFO: SMS enviado a +541166003395  
+[2021-05-05 08:08:10] local.INFO: SMS enviado a +541553884856  
+[2021-05-05 08:08:10] local.INFO: SMS enviado a +541124520036  
+[2021-05-05 08:08:10] local.INFO: SMS enviado a 1135231208  
+[2021-05-05 08:08:10] local.INFO: SMS enviado a 1534319525  
+[2021-05-05 08:08:11] local.INFO: SMS enviado a 1141589134  
+[2021-05-05 08:08:11] local.INFO: SMS enviado a 1165687248  
+[2021-05-05 08:08:11] local.INFO: SMS enviado a 1534657722  
+[2021-05-05 08:08:11] local.INFO: SMS enviado a 1140784737  
+[2021-05-05 08:08:11] local.INFO: SMS enviado a 1165137677  
+[2021-05-05 08:08:11] local.INFO: SMS enviado a 140784737  
+[2021-05-05 08:08:11] local.INFO: SMS enviado a +541143991678  
+[2021-05-05 08:32:03] local.INFO: SMS enviado a 1162485380  
+[2021-05-05 09:56:02] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-05 10:16:02] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-05 10:16:03] local.INFO: SMS enviado a 1162485380  
+[2021-05-05 10:16:03] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-05 10:16:03] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-05 10:32:03] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-05 10:40:04] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-05 10:48:02] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-05 11:02:39] local.ERROR: http://www.turnonet.com/confirmar_turno The GET method is not supported for this route. Supported methods: POST.  
+[2021-05-05 11:03:58] local.ERROR: http://www.turnonet.com/actualizar_turno The GET method is not supported for this route. Supported methods: POST.  
+[2021-05-05 11:24:03] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-05 11:32:02] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-05 11:40:03] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-05 11:56:16] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-05 12:16:02] local.INFO: SMS enviado a 2994494000  
+[2021-05-05 12:16:02] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-05 12:16:02] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-05 12:16:03] local.INFO: SMS enviado a 2994494000  
+[2021-05-05 12:32:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-05 12:32:02] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-05 12:32:02] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-05 12:48:02] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-05 12:56:02] local.INFO: SMS enviado a 1162485380  
+[2021-05-05 13:08:03] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-05 13:08:03] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-05 13:08:03] local.INFO: SMS enviado a 1162485380  
+[2021-05-05 13:16:03] local.INFO: SMS enviado a 1162485380  
+[2021-05-05 13:16:03] local.INFO: SMS enviado a 2994494000  
+[2021-05-05 13:16:03] local.INFO: SMS enviado a 1162485380  
+[2021-05-05 13:24:02] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-05 13:32:02] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-05 13:32:02] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-05 13:40:03] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-05 13:40:03] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-05 13:40:03] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-05 13:40:03] local.INFO: SMS enviado a 2994494000  
+[2021-05-05 13:48:02] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-05 13:48:02] local.INFO: SMS enviado a 2994494000  
+[2021-05-05 14:32:02] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-05 14:48:02] local.INFO: SMS enviado a 1162485380  
+[2021-05-05 14:48:03] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-05 14:56:03] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-05 15:16:03] local.INFO: SMS enviado a 1162485380  
+[2021-05-05 15:16:03] local.INFO: SMS enviado a 1162485380  
+[2021-05-05 15:16:03] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-05 15:32:03] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-05 15:40:03] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-05 15:40:03] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-05 15:48:02] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-05 16:00:15] local.INFO: Reporte de turnos del dia 2021-05-05 para las 17:00:00:58  en la cola  
+[2021-05-05 16:08:02] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-05 17:00:07] local.INFO: Enviado a JuzgadoCivildeChosMalal@jusneuquen.gov.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:00:09] local.INFO: Enviado a JuzgadodeFamilia-ChosMalal@jusneuquen.gov.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:00:10] local.INFO: Enviado a turnosmalito@gmail.com el reporte de turnos para 2021-05-06  
+[2021-05-05 17:00:10] local.INFO: Enviado a admin@malito.com.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:00:11] local.INFO: Enviado a admin@malito.com.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:00:13] local.INFO: Enviado a turnos@libraseguros.com.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:00:14] local.INFO: Enviado a turnos@libraseguros.com.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:00:14] local.INFO: Enviado a mcastelli@libraseguros.com.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:00:22] local.INFO: Enviado a turnosrpi@jusneuquen.gov.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:00:23] local.INFO: Enviado a turnosrpi@jusneuquen.gov.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:05:06] local.INFO: Enviado a titulos@iugr.edu.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:05:07] local.INFO: Enviado a titulos@ugr.edu.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:05:07] local.INFO: Enviado a titulos@ugr.edu.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:05:08] local.INFO: Enviado a titulos@ugr.edu.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:05:09] local.INFO: Enviado a titulos@ugr.edu.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:05:09] local.INFO: Enviado a alumnos@ugr.edu.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:05:11] local.INFO: Enviado a turnoscd@sodimac.com.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:05:11] local.INFO: Enviado a aalvez@sodimac.com.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:05:15] local.INFO: Enviado a consultoriointegralarenales@hotmail.com el reporte de turnos para 2021-05-06  
+[2021-05-05 17:05:16] local.INFO: Enviado a drgabrieltoledo@yahoo.com.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:08:02] local.INFO: SMS enviado a 2994494000  
+[2021-05-05 17:10:04] local.INFO: Enviado a drgabrieltoledo@yahoo.com.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:10:05] local.INFO: Enviado a bugarin.jose@gmail.com el reporte de turnos para 2021-05-06  
+[2021-05-05 17:10:06] local.INFO: Enviado a sarandreucci@gmail.com el reporte de turnos para 2021-05-06  
+[2021-05-05 17:10:08] local.INFO: Enviado a fabianberuschi@hotmail.com el reporte de turnos para 2021-05-06  
+[2021-05-05 17:10:10] local.INFO: Enviado a profesoradoconsudec@profesoradoconsudec.edu.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:10:11] local.INFO: Enviado a secretaria@crha.org.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:10:12] local.INFO: Enviado a grimihumberto@gmail.com el reporte de turnos para 2021-05-06  
+[2021-05-05 17:10:14] local.INFO: Enviado a majmilani@gmail.com el reporte de turnos para 2021-05-06  
+[2021-05-05 17:10:15] local.INFO: Enviado a majmilani@gmail.com el reporte de turnos para 2021-05-06  
+[2021-05-05 17:10:23] local.INFO: Enviado a info@neumovil.com.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:15:06] local.INFO: Enviado a cap@aadevolantes.com.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:15:07] local.INFO: Enviado a cap@aadevolantes.com.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:15:07] local.INFO: Enviado a cap@aadevolantes.com.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:15:14] local.INFO: Enviado a entrega.diploma@maimonides.edu el reporte de turnos para 2021-05-06  
+[2021-05-05 17:15:19] local.INFO: Enviado a turnosrpc@jusneuquen.gov.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:15:20] local.INFO: Enviado a turnosrpc@jusneuquen.gov.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:15:24] local.INFO: Enviado a ufatencionalpublicompfnq@jusneuquen.gov.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:15:24] local.INFO: Enviado a ufatencionalpublicompfnq@jusneuquen.gov.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:15:25] local.INFO: Enviado a aedufempfnq@jusneuquen.gov.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:15:25] local.INFO: Enviado a ufapyacmpfsmafd@jusneuquen.gov.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:20:21] local.INFO: Enviado a turnoscirc1@gmail.com el reporte de turnos para 2021-05-06  
+[2021-05-05 17:20:22] local.INFO: Enviado a JuzgadodeFamilia-Junin@jusneuquen.gov.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:20:22] local.INFO: Enviado a OficinaJudicialCivil-NQN-FD@jusneuquen.gov.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:20:23] local.INFO: Enviado a ofilabnqfd@jusneuquen.gov.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:20:24] local.INFO: Enviado a meufanq@jusneuquen.gov.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:20:24] local.INFO: Enviado a MesadeEntradasUnicaJuzgadoJuiciosEjecutivos-FD@jusneuquen.gov.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:20:25] local.INFO: Enviado a SecretariaCivildelTSJ-FD@jusneuquen.gov.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:20:25] local.INFO: Enviado a ccivnqfd@jusneuquen.gov.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:20:26] local.INFO: Enviado a JuzgadoCivildeRincondelosSauces@jusneuquen.gov.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:20:26] local.INFO: Enviado a ojpazapfd@jusneuquen.gov.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:24:02] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-05 17:25:03] local.INFO: Enviado a jciv1cu@jusneuquen.gov.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:25:04] local.INFO: Enviado a jciv2cufd@jusneuquen.gov.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:25:05] local.INFO: Enviado a JuzgadodeFamilia-CutralCo@jusneuquen.gov.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:25:06] local.INFO: Enviado a jciv1s1zafd@jusneuquen.gov.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:25:06] local.INFO: Enviado a JuzgadodeFamiliayJuiciosEjecutivos2-Zapala@jusneuquen.gov.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:25:07] local.INFO: Enviado a JuzgadoCivildeJunindelosAndes@jusneuquen.gov.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:25:08] local.INFO: Enviado a jciv2ju@jusneuquen.gov.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:25:09] local.INFO: Enviado a JuzgadoTodoslosFueros-VillalaAngostura@jusneuquen.gov.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 17:31:51] local.ERROR: http://www.turnonet.com/store_update The GET method is not supported for this route. Supported methods: POST.  
+[2021-05-05 17:32:02] local.INFO: SMS enviado a 1162485380  
+[2021-05-05 17:32:02] local.INFO: SMS enviado a 1162485380  
+[2021-05-05 17:32:03] local.INFO: SMS enviado a 1162485380  
+[2021-05-05 17:37:37] local.ERROR: http://www.turnonet.com/update_settings_business The GET method is not supported for this route. Supported methods: POST.  
+[2021-05-05 17:42:47] local.ERROR: http://www.turnonet.com/update_notifications_business The GET method is not supported for this route. Supported methods: POST.  
+[2021-05-05 17:42:57] local.ERROR: http://www.turnonet.com/update_works_business The GET method is not supported for this route. Supported methods: POST.  
+[2021-05-05 17:56:02] local.INFO: SMS enviado a 1162485380  
+[2021-05-05 17:56:03] local.INFO: SMS enviado a 1162485380  
+[2021-05-05 18:08:02] local.INFO: SMS enviado a 1163774747  
+[2021-05-05 18:08:03] local.INFO: SMS enviado a 1162485380  
+[2021-05-05 18:16:03] local.INFO: SMS enviado a 1162485380  
+[2021-05-05 18:16:03] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-05 18:24:01] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-05 18:24:02] local.INFO: SMS enviado a 1162485380  
+[2021-05-05 18:24:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-05 18:24:02] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-05 18:32:03] local.INFO: SMS enviado a 2994494000  
+[2021-05-05 18:32:03] local.INFO: SMS enviado a 2994494000  
+[2021-05-05 18:32:04] local.INFO: SMS enviado a 2994494000  
+[2021-05-05 18:32:04] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-05 18:40:04] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-05 19:00:14] local.INFO: Reporte de turnos del dia 2021-05-05 para las 20:00:00:17  en la cola  
+[2021-05-05 20:00:11] local.INFO: Enviado a atencionalcliente@jazminchebar.com.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 20:00:12] local.INFO: Enviado a salvador@jazminchebar.com.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 20:00:13] local.INFO: Enviado a elcano@jazminchebar.com.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 20:00:14] local.INFO: Enviado a localpalermo@jazminchebar.com.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 20:00:15] local.INFO: Enviado a elcano@jazminchebar.com.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 20:00:16] local.INFO: Enviado a iamartino.nutri@gmail.com el reporte de turnos para 2021-05-06  
+[2021-05-05 20:00:16] local.INFO: Enviado a iamartino.nutri@gmail.com el reporte de turnos para 2021-05-06  
+[2021-05-05 20:00:18] local.INFO: Enviado a jmorellana@sodimac.com.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 20:00:18] local.INFO: Enviado a jmorellana@sodimac.com.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 20:00:19] local.INFO: Enviado a sgabbati@gmail.com el reporte de turnos para 2021-05-06  
+[2021-05-05 20:05:12] local.INFO: Enviado a adelarosana@gmail.com el reporte de turnos para 2021-05-06  
+[2021-05-05 20:05:14] local.INFO: Enviado a gracielaallinlewis@hotmail.com el reporte de turnos para 2021-05-06  
+[2021-05-05 20:05:16] local.INFO: Enviado a anamcarro@yahoo.com.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 20:05:17] local.INFO: Enviado a anamcarro@yahoo.com.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 20:05:17] local.INFO: Enviado a monicagvera@hotmail.com el reporte de turnos para 2021-05-06  
+[2021-05-05 20:05:18] local.INFO: Enviado a soniabonomo@gmail.com el reporte de turnos para 2021-05-06  
+[2021-05-05 20:05:18] local.INFO: Enviado a afainboim@gmail.com el reporte de turnos para 2021-05-06  
+[2021-05-05 20:08:03] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-05 22:00:12] local.INFO: Reporte de turnos del dia 2021-05-05 para las 23:00:00:9  en la cola  
+[2021-05-05 22:08:02] local.INFO: SMS enviado a 2994494000  
+[2021-05-05 22:16:02] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-05 22:56:02] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-05 23:00:08] local.INFO: Enviado a cv.fisioterapia.vet@gmail.com el reporte de turnos para 2021-05-06  
+[2021-05-05 23:00:14] local.INFO: Enviado a turnos@dgttucuman.gov.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 23:00:15] local.INFO: Enviado a jatorrado@yahoo.com el reporte de turnos para 2021-05-06  
+[2021-05-05 23:00:16] local.INFO: Enviado a TURNOS@dgttucuman.gov.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 23:00:19] local.INFO: Enviado a kartodromobuenosaires@gmail.com el reporte de turnos para 2021-05-06  
+[2021-05-05 23:00:23] local.INFO: Enviado a alumnos-posgrado@fcecon.unr.edu.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 23:00:23] local.INFO: Enviado a infoposgrad@fcecon.unr.edu.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 23:00:24] local.INFO: Enviado a alumnos-posgrado@fcecon.unr.edu.ar el reporte de turnos para 2021-05-06  
+[2021-05-05 23:32:02] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-05 23:48:02] local.INFO: SMS no enviado, numero incorrecto:   

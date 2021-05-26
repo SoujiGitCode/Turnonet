@@ -1,0 +1,600 @@
+[2021-05-17 00:08:01] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 00:16:02] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-17 00:16:20] local.INFO: Recordatorio de turnos por correo (5 dias): 103  en la cola  
+[2021-05-17 00:43:19] local.INFO: Recordatorio de turnos por correo (para mañana): 714  en la cola  
+[2021-05-17 01:00:05] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 02:32:02] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-17 02:32:02] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-17 05:00:07] local.INFO: Reporte de turnos del dia 2021-05-17 para las 06:00:00:17  en la cola  
+[2021-05-17 06:00:09] local.INFO: Enviado a cmininni@sodimac.com.uy el reporte de turnos para 2021-05-17  
+[2021-05-17 06:00:10] local.INFO: Enviado a dastella@sodimac.com.ar el reporte de turnos para 2021-05-17  
+[2021-05-17 06:00:11] local.INFO: Enviado a dastella@sodimac.com.ar el reporte de turnos para 2021-05-17  
+[2021-05-17 06:00:12] local.INFO: Enviado a jcondori@sodimac.com.ar el reporte de turnos para 2021-05-17  
+[2021-05-17 06:00:12] local.INFO: Enviado a jcondori@sodimac.com.ar el reporte de turnos para 2021-05-17  
+[2021-05-17 06:00:14] local.INFO: Enviado a lwoltmann@sodimac.com.ar el reporte de turnos para 2021-05-17  
+[2021-05-17 06:00:14] local.INFO: Enviado a gbalbi@sodimac.com.ar el reporte de turnos para 2021-05-17  
+[2021-05-17 06:00:15] local.INFO: Enviado a danielroda_mp@yahoo.com.ar el reporte de turnos para 2021-05-17  
+[2021-05-17 06:00:16] local.INFO: Enviado a serviciotecnico@climaplat.com.ar el reporte de turnos para 2021-05-17  
+[2021-05-17 06:00:17] local.INFO: Enviado a lwoltmann@sodimac.com.ar el reporte de turnos para 2021-05-17  
+[2021-05-17 06:05:02] local.INFO: Enviado a lwoltmann@sodimac.com.ar el reporte de turnos para 2021-05-17  
+[2021-05-17 06:05:06] local.INFO: Enviado a edgardo.salatino@aerolineas.com.ar el reporte de turnos para 2021-05-17  
+[2021-05-17 06:05:07] local.INFO: Enviado a martin.rivera@aerolineas.com.ar el reporte de turnos para 2021-05-17  
+[2021-05-17 06:05:07] local.INFO: Enviado a walter.lamas@aerolineas.com.ar el reporte de turnos para 2021-05-17  
+[2021-05-17 06:16:02] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-17 06:48:03] local.INFO: SMS enviado a 1162485380  
+[2021-05-17 07:00:03] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 07:08:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 07:32:03] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-17 07:32:03] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 07:40:03] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 07:40:03] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 07:48:03] local.INFO: SMS enviado a 1162485380  
+[2021-05-17 07:56:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 07:56:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 08:00:05] local.INFO: SMS enviado a 1566819078  
+[2021-05-17 08:00:07] local.INFO: SMS enviado a 1123809873  
+[2021-05-17 08:00:07] local.INFO: SMS enviado a 1157078411  
+[2021-05-17 08:00:08] local.INFO: SMS enviado a 1131064387  
+[2021-05-17 08:00:08] local.INFO: SMS enviado a +541164565142  
+[2021-05-17 08:00:08] local.INFO: SMS enviado a 1121649779  
+[2021-05-17 08:00:09] local.INFO: SMS enviado a 01169683167  
+[2021-05-17 08:00:09] local.INFO: SMS enviado a 1157578159  
+[2021-05-17 08:00:09] local.INFO: SMS enviado a 1158997214  
+[2021-05-17 08:00:21] local.INFO: Recordatorio de turnos por sms (para mañana): 138  en la cola  
+[2021-05-17 08:08:02] local.INFO: SMS enviado a +541151487938  
+[2021-05-17 08:08:02] local.INFO: SMS enviado a 1160277148  
+[2021-05-17 08:08:03] local.INFO: SMS enviado a 1149178111  
+[2021-05-17 08:08:03] local.INFO: SMS enviado a 91169556977  
+[2021-05-17 08:08:03] local.INFO: SMS enviado a 1168459191  
+[2021-05-17 08:08:03] local.INFO: SMS enviado a 1563616655  
+[2021-05-17 08:08:05] local.INFO: SMS enviado a 1130254498  
+[2021-05-17 08:08:05] local.INFO: SMS enviado a 1155178576  
+[2021-05-17 08:08:05] local.INFO: SMS enviado a 1140279058  
+[2021-05-17 08:08:05] local.INFO: SMS enviado a 01154816538  
+[2021-05-17 08:08:06] local.INFO: SMS enviado a 1162519856  
+[2021-05-17 08:08:06] local.INFO: SMS enviado a 1162463122  
+[2021-05-17 08:08:06] local.INFO: SMS enviado a 1530013416  
+[2021-05-17 08:08:06] local.INFO: SMS enviado a 1133753064  
+[2021-05-17 08:08:06] local.INFO: SMS enviado a 1138146354  
+[2021-05-17 08:08:07] local.INFO: SMS enviado a 1526485044  
+[2021-05-17 08:08:07] local.INFO: SMS enviado a +541151520851  
+[2021-05-17 08:08:07] local.INFO: SMS enviado a 1134747592  
+[2021-05-17 08:08:07] local.INFO: SMS enviado a 1167168461  
+[2021-05-17 08:08:07] local.INFO: SMS enviado a 1157170869  
+[2021-05-17 08:08:07] local.INFO: SMS enviado a +5491156688391  
+[2021-05-17 08:08:08] local.INFO: SMS enviado a 1162851089  
+[2021-05-17 08:08:08] local.INFO: SMS enviado a 1168693053  
+[2021-05-17 08:08:08] local.INFO: SMS enviado a 1568620312  
+[2021-05-17 08:08:08] local.INFO: SMS enviado a 1136793853  
+[2021-05-17 08:08:08] local.INFO: SMS enviado a 1149394509  
+[2021-05-17 08:08:08] local.INFO: SMS enviado a +541134613798  
+[2021-05-17 08:08:09] local.INFO: SMS enviado a 1150993871  
+[2021-05-17 08:08:09] local.INFO: SMS enviado a 1131906565  
+[2021-05-17 08:08:09] local.INFO: SMS enviado a +5401115265625  
+[2021-05-17 08:08:09] local.INFO: SMS enviado a 1559537273  
+[2021-05-17 08:08:09] local.INFO: SMS enviado a 1157622355  
+[2021-05-17 08:08:09] local.INFO: SMS enviado a +541555963881  
+[2021-05-17 08:08:10] local.INFO: SMS enviado a 1135596512  
+[2021-05-17 08:08:10] local.INFO: SMS enviado a +541162816596  
+[2021-05-17 08:08:10] local.INFO: SMS enviado a 1561510739  
+[2021-05-17 08:08:10] local.INFO: SMS enviado a 1149485983  
+[2021-05-17 08:08:10] local.INFO: SMS enviado a 1530525510  
+[2021-05-17 08:08:10] local.INFO: SMS enviado a 1150172356  
+[2021-05-17 08:08:11] local.INFO: SMS enviado a 1561308182  
+[2021-05-17 08:08:11] local.INFO: SMS enviado a 1144996162  
+[2021-05-17 08:08:11] local.INFO: SMS enviado a 1561149398  
+[2021-05-17 08:08:11] local.INFO: SMS enviado a 1161590602  
+[2021-05-17 08:08:11] local.INFO: SMS enviado a 1561308182  
+[2021-05-17 08:08:12] local.INFO: SMS enviado a 1135890053  
+[2021-05-17 08:08:12] local.INFO: SMS enviado a 1152600085  
+[2021-05-17 08:08:12] local.INFO: SMS enviado a 1135911026  
+[2021-05-17 08:08:12] local.INFO: SMS enviado a +541131609023  
+[2021-05-17 08:08:12] local.INFO: SMS enviado a +541558893878  
+[2021-05-17 08:08:12] local.INFO: SMS enviado a 1163354811  
+[2021-05-17 08:08:13] local.INFO: SMS enviado a 1161455709  
+[2021-05-17 08:08:13] local.INFO: SMS enviado a 1567805385  
+[2021-05-17 08:08:13] local.INFO: SMS enviado a 1169821842  
+[2021-05-17 08:08:13] local.INFO: SMS enviado a 1530042849  
+[2021-05-17 08:08:13] local.INFO: SMS enviado a 1134221266  
+[2021-05-17 08:08:13] local.INFO: SMS enviado a 1169316901  
+[2021-05-17 08:08:14] local.INFO: SMS enviado a +5491122976392  
+[2021-05-17 08:08:14] local.INFO: SMS enviado a 1130420245  
+[2021-05-17 08:08:14] local.INFO: SMS enviado a 1165044027  
+[2021-05-17 08:08:14] local.INFO: SMS enviado a 01167805385  
+[2021-05-17 08:08:14] local.INFO: SMS enviado a +541159777757  
+[2021-05-17 08:08:14] local.INFO: SMS enviado a 1161517980  
+[2021-05-17 08:08:15] local.INFO: SMS enviado a 91156321912  
+[2021-05-17 08:08:15] local.INFO: SMS enviado a 1137882288  
+[2021-05-17 08:08:15] local.INFO: SMS enviado a 0351153150737  
+[2021-05-17 08:08:15] local.INFO: SMS enviado a 1144144984  
+[2021-05-17 08:08:15] local.INFO: SMS enviado a 1136918242  
+[2021-05-17 08:08:15] local.INFO: SMS enviado a 1167352876  
+[2021-05-17 08:08:16] local.INFO: SMS enviado a 1564192222  
+[2021-05-17 08:08:16] local.INFO: SMS enviado a +541166003395  
+[2021-05-17 08:08:16] local.INFO: SMS enviado a 1160191234  
+[2021-05-17 08:08:16] local.INFO: SMS enviado a +541144372743  
+[2021-05-17 08:08:16] local.INFO: SMS enviado a 1550432100  
+[2021-05-17 08:08:16] local.INFO: SMS enviado a 1164192222  
+[2021-05-17 08:08:17] local.INFO: SMS enviado a 1565726885  
+[2021-05-17 08:08:17] local.INFO: SMS enviado a 1153243660  
+[2021-05-17 08:08:17] local.INFO: SMS enviado a 1136204019  
+[2021-05-17 08:08:17] local.INFO: SMS enviado a 1164417603  
+[2021-05-17 08:08:17] local.INFO: SMS enviado a 1555740043  
+[2021-05-17 08:08:17] local.INFO: SMS enviado a 1557979562  
+[2021-05-17 08:08:18] local.INFO: SMS enviado a +5469676763  
+[2021-05-17 08:08:18] local.INFO: SMS enviado a 1164867032  
+[2021-05-17 08:08:18] local.INFO: SMS enviado a 1161790260  
+[2021-05-17 08:08:18] local.INFO: SMS enviado a 1134907555  
+[2021-05-17 08:08:18] local.INFO: SMS enviado a 1154753642  
+[2021-05-17 08:08:18] local.INFO: SMS enviado a 1164937818  
+[2021-05-17 08:08:19] local.INFO: SMS enviado a 1530736919  
+[2021-05-17 08:08:19] local.INFO: SMS enviado a 1157947711  
+[2021-05-17 08:08:19] local.INFO: SMS enviado a 1136200775  
+[2021-05-17 08:08:19] local.INFO: SMS enviado a 1125824424  
+[2021-05-17 08:08:19] local.INFO: SMS enviado a 1163773703  
+[2021-05-17 08:08:19] local.INFO: SMS enviado a 1150057113  
+[2021-05-17 08:08:20] local.INFO: SMS enviado a 3704277574  
+[2021-05-17 08:08:20] local.INFO: SMS enviado a 1158393824  
+[2021-05-17 08:08:20] local.INFO: SMS enviado a 1122809302  
+[2021-05-17 08:08:20] local.INFO: SMS enviado a 1130153781  
+[2021-05-17 08:08:20] local.INFO: SMS enviado a 1166599608  
+[2021-05-17 08:08:20] local.INFO: SMS enviado a 1133852222  
+[2021-05-17 08:08:21] local.INFO: SMS enviado a 1531236189  
+[2021-05-17 08:08:21] local.INFO: SMS enviado a 1150603283  
+[2021-05-17 08:16:02] local.INFO: SMS enviado a 1131472202  
+[2021-05-17 08:16:04] local.INFO: SMS enviado a 1535968963  
+[2021-05-17 08:16:04] local.INFO: SMS enviado a 1155807020  
+[2021-05-17 08:16:04] local.INFO: SMS enviado a 1156959365  
+[2021-05-17 08:16:04] local.INFO: SMS enviado a 1135750221  
+[2021-05-17 08:16:04] local.INFO: SMS enviado a 1536025204  
+[2021-05-17 08:16:05] local.INFO: SMS enviado a 1557693019  
+[2021-05-17 08:16:05] local.INFO: SMS enviado a 1133482426  
+[2021-05-17 08:16:05] local.INFO: SMS enviado a +5491140456173  
+[2021-05-17 08:16:06] local.INFO: SMS enviado a 1540566462  
+[2021-05-17 08:16:06] local.INFO: SMS enviado a 1140269898  
+[2021-05-17 08:16:06] local.INFO: SMS enviado a 1167871241  
+[2021-05-17 08:16:06] local.INFO: SMS enviado a 1158329789  
+[2021-05-17 08:16:06] local.INFO: SMS enviado a 1131533640  
+[2021-05-17 08:16:07] local.INFO: SMS enviado a 1140743897  
+[2021-05-17 08:16:07] local.INFO: SMS enviado a 1151765395  
+[2021-05-17 08:16:07] local.INFO: SMS enviado a 1168329603  
+[2021-05-17 08:16:07] local.INFO: SMS enviado a 1149772116  
+[2021-05-17 08:16:07] local.INFO: SMS enviado a 1149772116  
+[2021-05-17 08:16:07] local.INFO: SMS enviado a 1138026696  
+[2021-05-17 08:16:08] local.INFO: SMS enviado a 1158853612  
+[2021-05-17 08:16:08] local.INFO: SMS enviado a 1157093804  
+[2021-05-17 08:16:08] local.INFO: SMS enviado a 1565256409  
+[2021-05-17 08:16:08] local.INFO: SMS enviado a 1131992356  
+[2021-05-17 08:16:08] local.INFO: SMS enviado a 1131623681  
+[2021-05-17 08:16:08] local.INFO: SMS enviado a 1136750714  
+[2021-05-17 08:16:09] local.INFO: SMS enviado a 1151222021  
+[2021-05-17 08:16:09] local.INFO: SMS enviado a 1126582209  
+[2021-05-17 08:16:09] local.INFO: SMS enviado a 1139175226  
+[2021-05-17 08:24:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 08:24:08] local.INFO: cancelo turno 2278-1382390 desde smsfacil por curl   
+[2021-05-17 08:24:10] local.INFO: cancelo turno 2278-1378477 desde smsfacil por curl   
+[2021-05-17 08:28:10] local.INFO: cancelo turno 2278-1376918 desde smsfacil por curl   
+[2021-05-17 08:28:12] local.INFO: cancelo turno 2278-1381397 desde smsfacil por curl   
+[2021-05-17 08:32:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 08:32:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 08:32:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 08:32:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 08:32:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 08:36:24] local.INFO: PAGO POR MERCADO PAGO PARA 2774 approved accredited  
+[2021-05-17 08:40:04] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 08:40:05] local.INFO: SMS enviado a 1162485380  
+[2021-05-17 08:44:08] local.INFO: cancelo turno 2278-1379013 desde smsfacil por curl   
+[2021-05-17 08:44:10] local.INFO: cancelo turno 2415-1383177 desde smsfacil por curl   
+[2021-05-17 08:48:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 08:48:08] local.INFO: cancelo turno 2278-1379326 desde smsfacil por curl   
+[2021-05-17 08:52:20] local.INFO: PAGO POR MERCADO PAGO PARA 2774 rejected cc_rejected_high_risk  
+[2021-05-17 08:56:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 08:56:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 08:56:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 09:08:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 09:16:02] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-17 09:24:09] local.INFO: cancelo turno 2278-1377897 desde smsfacil por curl   
+[2021-05-17 09:32:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 09:40:04] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 09:48:02] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-17 09:48:02] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-17 09:56:03] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 09:56:03] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-17 09:56:03] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 10:00:05] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-17 10:00:05] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 10:08:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 10:08:02] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-17 10:16:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 10:16:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 10:16:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 10:16:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 10:16:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 10:32:02] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-17 10:56:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 11:16:03] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-17 11:16:03] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 11:16:03] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 11:24:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 11:32:02] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-17 11:32:02] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-17 11:32:02] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-17 11:48:03] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 11:48:03] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 11:56:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 11:56:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 11:56:02] local.INFO: SMS enviado a 2994494000  
+[2021-05-17 12:16:02] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-17 12:24:02] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-17 12:32:02] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-17 12:40:03] local.INFO: SMS enviado a 1162485380  
+[2021-05-17 12:40:03] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 12:40:03] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-17 12:40:03] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-17 12:48:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 12:48:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 13:02:25] local.INFO: PAGO POR MERCADO PAGO PARA 2774 rejected cc_rejected_insufficient_amount  
+[2021-05-17 13:03:18] local.INFO: PAGO POR MERCADO PAGO PARA 2774    
+[2021-05-17 13:08:02] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-17 13:08:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 13:08:02] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-17 13:24:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 13:32:02] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-17 13:32:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 13:40:05] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 13:48:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 13:48:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 13:48:02] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-17 13:56:02] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-17 13:56:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 13:56:03] local.INFO: SMS enviado a 1162485380  
+[2021-05-17 14:00:05] local.INFO: SMS enviado a 1162485380  
+[2021-05-17 14:16:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 14:16:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 14:24:03] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-17 14:32:02] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-17 14:32:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 14:32:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 14:32:02] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-17 14:48:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 14:48:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 14:54:18] local.INFO: PAGO POR MERCADO PAGO PARA 2774 approved accredited  
+[2021-05-17 14:56:02] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-17 14:56:02] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-17 14:56:02] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-17 15:00:05] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-17 15:00:05] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 15:08:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 15:08:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 15:08:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 15:08:02] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-17 15:16:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 15:24:03] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 15:24:03] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 15:32:03] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 15:32:03] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 15:40:04] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 15:48:03] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 15:58:51] local.INFO: PAGO POR MERCADO PAGO PARA 2774 approved accredited  
+[2021-05-17 16:00:14] local.INFO: Reporte de turnos del dia 2021-05-17 para las 17:00:00:47  en la cola  
+[2021-05-17 16:08:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 16:16:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 16:19:28] local.INFO: PAGO POR MERCADO PAGO PARA 2774 approved accredited  
+[2021-05-17 16:39:42] local.ERROR: Undefined variable: date {"userId":280328,"exception":"[object] (ErrorException(code: 0): Undefined variable: date at /var/www/vhosts/turnonet.com/turnonet.com/turnonet/app/Http/Controllers/ExcelController.php:95)
+[stacktrace]
+#0 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/app/Http/Controllers/ExcelController.php(95): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined varia...', '/var/www/vhosts...', 95, Array)
+#1 [internal function]: App\\Http\\Controllers\\ExcelController->shift('2021-05-01', '2021-05-19', 'ALTA', '0', '', '', '968')
+#2 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(54): call_user_func_array(Array, Array)
+#3 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(45): Illuminate\\Routing\\Controller->callAction('shift', Array)
+#4 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Routing/Route.php(239): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\ExcelController), 'shift')
+#5 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Routing/Route.php(196): Illuminate\\Routing\\Route->runController()
+#6 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Routing/Router.php(685): Illuminate\\Routing\\Route->run()
+#7 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(128): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#8 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/app/Http/Middleware/User.php(25): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#9 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): App\\Http\\Middleware\\User->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#10 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#11 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#12 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/View/Middleware/ShareErrorsFromSession.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#13 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): Illuminate\\View\\Middleware\\ShareErrorsFromSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#14 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#15 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php(62): Illuminate\\Session\\Middleware\\StartSession->handleStatefulRequest(Object(Illuminate\\Http\\Request), Object(Illuminate\\Session\\Store), Object(Closure))
+#16 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): Illuminate\\Session\\Middleware\\StartSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#17 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/AddQueuedCookiesToResponse.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#18 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#19 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/EncryptCookies.php(66): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#20 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): Illuminate\\Cookie\\Middleware\\EncryptCookies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#21 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(103): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#22 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Routing/Router.php(687): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#23 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Routing/Router.php(662): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#24 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Routing/Router.php(628): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#25 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Routing/Router.php(617): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#26 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(165): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#27 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(128): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#28 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#29 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#30 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#31 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#32 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#33 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#34 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(63): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#35 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#36 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/fruitcake/laravel-cors/src/HandleCors.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#37 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): Fruitcake\\Cors\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#38 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#39 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): Fideloper\\Proxy\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#40 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(103): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#41 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(140): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#42 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#43 /var/www/vhosts/turnonet.com/turnonet.com/index.php(54): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#44 {main}
+"} 
+[2021-05-17 16:39:42] local.ERROR: http://www.turnonet.com/excel/turnos/01-05-2021/19-05-2021/ALTA/0/ALL/ALL/968 Undefined variable: date  
+[2021-05-17 16:40:42] local.ERROR: Undefined variable: date {"userId":280328,"exception":"[object] (ErrorException(code: 0): Undefined variable: date at /var/www/vhosts/turnonet.com/turnonet.com/turnonet/app/Http/Controllers/ExcelController.php:95)
+[stacktrace]
+#0 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/app/Http/Controllers/ExcelController.php(95): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined varia...', '/var/www/vhosts...', 95, Array)
+#1 [internal function]: App\\Http\\Controllers\\ExcelController->shift('2021-05-01', '2021-05-17', 'ALTA', '0', '', '', '968')
+#2 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(54): call_user_func_array(Array, Array)
+#3 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(45): Illuminate\\Routing\\Controller->callAction('shift', Array)
+#4 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Routing/Route.php(239): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\ExcelController), 'shift')
+#5 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Routing/Route.php(196): Illuminate\\Routing\\Route->runController()
+#6 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Routing/Router.php(685): Illuminate\\Routing\\Route->run()
+#7 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(128): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#8 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/app/Http/Middleware/User.php(25): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#9 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): App\\Http\\Middleware\\User->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#10 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#11 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#12 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/View/Middleware/ShareErrorsFromSession.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#13 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): Illuminate\\View\\Middleware\\ShareErrorsFromSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#14 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#15 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php(62): Illuminate\\Session\\Middleware\\StartSession->handleStatefulRequest(Object(Illuminate\\Http\\Request), Object(Illuminate\\Session\\Store), Object(Closure))
+#16 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): Illuminate\\Session\\Middleware\\StartSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#17 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/AddQueuedCookiesToResponse.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#18 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#19 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/EncryptCookies.php(66): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#20 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): Illuminate\\Cookie\\Middleware\\EncryptCookies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#21 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(103): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#22 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Routing/Router.php(687): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#23 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Routing/Router.php(662): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#24 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Routing/Router.php(628): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#25 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Routing/Router.php(617): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#26 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(165): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#27 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(128): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#28 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#29 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#30 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#31 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#32 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#33 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#34 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(63): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#35 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#36 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/fruitcake/laravel-cors/src/HandleCors.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#37 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): Fruitcake\\Cors\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#38 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#39 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): Fideloper\\Proxy\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#40 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(103): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#41 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(140): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#42 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#43 /var/www/vhosts/turnonet.com/turnonet.com/index.php(54): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#44 {main}
+"} 
+[2021-05-17 16:40:42] local.ERROR: http://www.turnonet.com/excel/turnos/01-05-2021/17-05-2021/ALTA/0/ALL/ALL/968 Undefined variable: date  
+[2021-05-17 16:44:59] local.ERROR: Undefined variable: date {"userId":280328,"exception":"[object] (ErrorException(code: 0): Undefined variable: date at /var/www/vhosts/turnonet.com/turnonet.com/turnonet/app/Http/Controllers/ExcelController.php:95)
+[stacktrace]
+#0 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/app/Http/Controllers/ExcelController.php(95): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined varia...', '/var/www/vhosts...', 95, Array)
+#1 [internal function]: App\\Http\\Controllers\\ExcelController->shift('2021-05-01', '2021-05-17', 'ALTA', '0', '', '', '968')
+#2 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(54): call_user_func_array(Array, Array)
+#3 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(45): Illuminate\\Routing\\Controller->callAction('shift', Array)
+#4 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Routing/Route.php(239): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\ExcelController), 'shift')
+#5 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Routing/Route.php(196): Illuminate\\Routing\\Route->runController()
+#6 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Routing/Router.php(685): Illuminate\\Routing\\Route->run()
+#7 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(128): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#8 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/app/Http/Middleware/User.php(25): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#9 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): App\\Http\\Middleware\\User->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#10 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#11 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#12 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/View/Middleware/ShareErrorsFromSession.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#13 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): Illuminate\\View\\Middleware\\ShareErrorsFromSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#14 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#15 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php(62): Illuminate\\Session\\Middleware\\StartSession->handleStatefulRequest(Object(Illuminate\\Http\\Request), Object(Illuminate\\Session\\Store), Object(Closure))
+#16 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): Illuminate\\Session\\Middleware\\StartSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#17 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/AddQueuedCookiesToResponse.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#18 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#19 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/EncryptCookies.php(66): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#20 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): Illuminate\\Cookie\\Middleware\\EncryptCookies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#21 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(103): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#22 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Routing/Router.php(687): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#23 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Routing/Router.php(662): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#24 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Routing/Router.php(628): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#25 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Routing/Router.php(617): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#26 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(165): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#27 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(128): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#28 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#29 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#30 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#31 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#32 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#33 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#34 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(63): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#35 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#36 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/fruitcake/laravel-cors/src/HandleCors.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#37 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): Fruitcake\\Cors\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#38 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#39 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): Fideloper\\Proxy\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#40 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(103): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#41 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(140): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#42 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#43 /var/www/vhosts/turnonet.com/turnonet.com/index.php(54): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#44 {main}
+"} 
+[2021-05-17 16:44:59] local.ERROR: http://www.turnonet.com/excel/turnos/01-05-2021/17-05-2021/ALTA/0/ALL/ALL/968 Undefined variable: date  
+[2021-05-17 16:45:22] local.ERROR: Undefined variable: date {"userId":280328,"exception":"[object] (ErrorException(code: 0): Undefined variable: date at /var/www/vhosts/turnonet.com/turnonet.com/turnonet/app/Http/Controllers/ExcelController.php:95)
+[stacktrace]
+#0 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/app/Http/Controllers/ExcelController.php(95): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined varia...', '/var/www/vhosts...', 95, Array)
+#1 [internal function]: App\\Http\\Controllers\\ExcelController->shift('2021-05-01', '2021-05-17', 'ALTA', '0', '', '', '968')
+#2 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(54): call_user_func_array(Array, Array)
+#3 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(45): Illuminate\\Routing\\Controller->callAction('shift', Array)
+#4 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Routing/Route.php(239): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\ExcelController), 'shift')
+#5 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Routing/Route.php(196): Illuminate\\Routing\\Route->runController()
+#6 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Routing/Router.php(685): Illuminate\\Routing\\Route->run()
+#7 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(128): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#8 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/app/Http/Middleware/User.php(25): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#9 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): App\\Http\\Middleware\\User->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#10 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#11 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#12 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/View/Middleware/ShareErrorsFromSession.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#13 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): Illuminate\\View\\Middleware\\ShareErrorsFromSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#14 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#15 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php(62): Illuminate\\Session\\Middleware\\StartSession->handleStatefulRequest(Object(Illuminate\\Http\\Request), Object(Illuminate\\Session\\Store), Object(Closure))
+#16 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): Illuminate\\Session\\Middleware\\StartSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#17 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/AddQueuedCookiesToResponse.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#18 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#19 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/EncryptCookies.php(66): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#20 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): Illuminate\\Cookie\\Middleware\\EncryptCookies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#21 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(103): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#22 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Routing/Router.php(687): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#23 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Routing/Router.php(662): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#24 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Routing/Router.php(628): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#25 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Routing/Router.php(617): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#26 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(165): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#27 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(128): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#28 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#29 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#30 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#31 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#32 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#33 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#34 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(63): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#35 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#36 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/fruitcake/laravel-cors/src/HandleCors.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#37 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): Fruitcake\\Cors\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#38 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#39 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(167): Fideloper\\Proxy\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#40 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(103): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#41 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(140): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#42 /var/www/vhosts/turnonet.com/turnonet.com/turnonet/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(109): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#43 /var/www/vhosts/turnonet.com/turnonet.com/index.php(54): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#44 {main}
+"} 
+[2021-05-17 16:45:22] local.ERROR: http://www.turnonet.com/excel/turnos/01-05-2021/17-05-2021/ALTA/0/ALL/ALL/968 Undefined variable: date  
+[2021-05-17 16:48:03] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 16:48:03] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 16:56:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 16:56:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 17:00:03] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 17:00:05] local.INFO: Enviado a titulos@iugr.edu.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 17:00:06] local.INFO: Enviado a titulos@ugr.edu.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 17:00:07] local.INFO: Enviado a titulos.sf@ugr.edu.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 17:00:17] local.INFO: Enviado a consultoriointegralarenales@hotmail.com el reporte de turnos para 2021-05-18  
+[2021-05-17 17:00:18] local.INFO: Enviado a drgabrieltoledo@yahoo.com.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 17:00:19] local.INFO: Enviado a drgabrieltoledo@yahoo.com.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 17:00:19] local.INFO: Enviado a marielagerde@hotmail.com el reporte de turnos para 2021-05-18  
+[2021-05-17 17:00:20] local.INFO: Enviado a marianaalbrizio@hotmail.com el reporte de turnos para 2021-05-18  
+[2021-05-17 17:00:21] local.INFO: Enviado a hgiambastiani@hotmail.com el reporte de turnos para 2021-05-18  
+[2021-05-17 17:00:22] local.INFO: Enviado a fabianberuschi@hotmail.com el reporte de turnos para 2021-05-18  
+[2021-05-17 17:05:03] local.INFO: Enviado a admventashelvetica@gmail.com el reporte de turnos para 2021-05-18  
+[2021-05-17 17:05:04] local.INFO: Enviado a info@helvetica.com.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 17:05:05] local.INFO: Enviado a info@helvetica.com.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 17:05:05] local.INFO: Enviado a profesoradoconsudec@profesoradoconsudec.edu.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 17:05:06] local.INFO: Enviado a secretaria@crha.org.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 17:05:07] local.INFO: Enviado a grimihumberto@gmail.com el reporte de turnos para 2021-05-18  
+[2021-05-17 17:05:10] local.INFO: Enviado a info@neumovil.com.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 17:05:11] local.INFO: Enviado a cap@aadevolantes.com.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 17:05:12] local.INFO: Enviado a cap@aadevolantes.com.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 17:05:12] local.INFO: Enviado a cap@aadevolantes.com.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 17:08:02] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-17 17:10:05] local.INFO: Enviado a ufatencionalpublicompfnq@jusneuquen.gov.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 17:10:06] local.INFO: Enviado a aedufempfnq@jusneuquen.gov.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 17:10:06] local.INFO: Enviado a ufapyacmpfsmafd@jusneuquen.gov.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 17:10:17] local.INFO: Enviado a turnoscirc1@gmail.com el reporte de turnos para 2021-05-18  
+[2021-05-17 17:10:18] local.INFO: Enviado a JuzgadodeFamilia-Junin@jusneuquen.gov.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 17:10:18] local.INFO: Enviado a OficinaJudicialCivil-NQN-FD@jusneuquen.gov.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 17:10:19] local.INFO: Enviado a ofilabnqfd@jusneuquen.gov.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 17:10:19] local.INFO: Enviado a meufanq@jusneuquen.gov.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 17:10:20] local.INFO: Enviado a MesadeEntradasUnicaJuzgadoJuiciosEjecutivos-FD@jusneuquen.gov.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 17:10:20] local.INFO: Enviado a ccivnqfd@jusneuquen.gov.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 17:15:03] local.INFO: Enviado a OficinadeViolencia@jusneuquen.gov.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 17:15:04] local.INFO: Enviado a jciv2cufd@jusneuquen.gov.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 17:15:04] local.INFO: Enviado a oapygzap@jusneuquen.gov.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 17:15:05] local.INFO: Enviado a jciv1s1zafd@jusneuquen.gov.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 17:15:06] local.INFO: Enviado a JuzgadoCivildeJunindelosAndes@jusneuquen.gov.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 17:15:06] local.INFO: Enviado a jciv2ju@jusneuquen.gov.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 17:15:07] local.INFO: Enviado a JuzgadoTodoslosFueros-VillalaAngostura@jusneuquen.gov.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 17:15:07] local.INFO: Enviado a JuzgadodeFamilia-ChosMalal@jusneuquen.gov.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 17:15:08] local.INFO: Enviado a turnosmalito@gmail.com el reporte de turnos para 2021-05-18  
+[2021-05-17 17:15:08] local.INFO: Enviado a admin@malito.com.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 17:16:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 17:16:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 17:20:04] local.INFO: Enviado a admin@malito.com.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 17:20:09] local.INFO: Enviado a turnos@libraseguros.com.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 17:20:10] local.INFO: Enviado a turnos@libraseguros.com.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 17:20:10] local.INFO: Enviado a cordoba@libraseguros.com.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 17:20:11] local.INFO: Enviado a mcastelli@libraseguros.com.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 17:20:11] local.INFO: Enviado a cordoba@libraseguros.com.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 17:20:14] local.INFO: Enviado a cnevi@hotmail.com el reporte de turnos para 2021-05-18  
+[2021-05-17 17:24:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 17:32:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 17:32:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 17:48:02] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-17 17:48:02] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-17 17:48:02] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-17 18:24:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 18:24:03] local.INFO: SMS enviado a 1162485380  
+[2021-05-17 18:40:04] local.INFO: SMS enviado a 1162485380  
+[2021-05-17 18:48:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 19:00:05] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-17 19:00:15] local.INFO: Reporte de turnos del dia 2021-05-17 para las 20:00:00:16  en la cola  
+[2021-05-17 19:08:02] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-17 19:08:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 19:16:03] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 19:24:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 19:24:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 19:32:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 19:36:11] local.ERROR: http://www.turnonet.com/confirmar_turno The GET method is not supported for this route. Supported methods: POST.  
+[2021-05-17 19:36:35] local.ERROR: http://www.turnonet.com/actualizar_turno The GET method is not supported for this route. Supported methods: POST.  
+[2021-05-17 19:48:02] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-17 20:00:09] local.INFO: Enviado a eit.equipoterapeutico@gmail.com el reporte de turnos para 2021-05-18  
+[2021-05-17 20:00:10] local.INFO: Enviado a silpesce89@gmail.com el reporte de turnos para 2021-05-18  
+[2021-05-17 20:00:14] local.INFO: Enviado a atencionalcliente@jazminchebar.com.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 20:00:14] local.INFO: Enviado a salvador@jazminchebar.com.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 20:00:15] local.INFO: Enviado a elcano@jazminchebar.com.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 20:00:16] local.INFO: Enviado a localpalermo@jazminchebar.com.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 20:00:16] local.INFO: Enviado a elcano@jazminchebar.com.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 20:00:17] local.INFO: Enviado a jmorellana@sodimac.com.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 20:00:18] local.INFO: Enviado a jmorellana@sodimac.com.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 20:00:24] local.INFO: Enviado a adelarosana@gmail.com el reporte de turnos para 2021-05-18  
+[2021-05-17 20:05:03] local.INFO: Enviado a gracielaallinlewis@hotmail.com el reporte de turnos para 2021-05-18  
+[2021-05-17 20:05:08] local.INFO: Enviado a anamcarro@yahoo.com.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 20:05:09] local.INFO: Enviado a anamcarro@yahoo.com.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 20:05:09] local.INFO: Enviado a Dra.eugeniaolivetti@gmail.com el reporte de turnos para 2021-05-18  
+[2021-05-17 20:05:10] local.INFO: Enviado a soniabonomo@gmail.com el reporte de turnos para 2021-05-18  
+[2021-05-17 20:05:10] local.INFO: Enviado a monicagvera@hotmail.com el reporte de turnos para 2021-05-18  
+[2021-05-17 20:08:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 20:16:02] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-17 20:48:03] local.INFO: SMS enviado a 2994494000  
+[2021-05-17 20:56:03] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-17 21:24:02] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-17 21:24:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 21:56:02] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-17 22:00:10] local.INFO: Reporte de turnos del dia 2021-05-17 para las 23:00:00:10  en la cola  
+[2021-05-17 22:08:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 22:08:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 22:16:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 22:24:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 22:24:02] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-17 22:24:02] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-17 22:24:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 22:48:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 22:48:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-17 22:56:03] local.INFO: SMS enviado a 1162485380  
+[2021-05-17 23:00:10] local.INFO: Enviado a cv.fisioterapia.vet@gmail.com el reporte de turnos para 2021-05-18  
+[2021-05-17 23:00:11] local.INFO: Enviado a espaciokosmos@gmail.com el reporte de turnos para 2021-05-18  
+[2021-05-17 23:00:12] local.INFO: Enviado a marianaamado84@gmail.com el reporte de turnos para 2021-05-18  
+[2021-05-17 23:00:12] local.INFO: Enviado a marianaamado84@gmail.com el reporte de turnos para 2021-05-18  
+[2021-05-17 23:00:18] local.INFO: Enviado a turnos@dgttucuman.gov.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 23:00:19] local.INFO: Enviado a jatorrado@yahoo.com el reporte de turnos para 2021-05-18  
+[2021-05-17 23:00:20] local.INFO: Enviado a TURNOS@dgttucuman.gov.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 23:00:35] local.INFO: Enviado a deptomedicoeze@aerolineas.com.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 23:00:35] local.INFO: Enviado a deptomedicoaep@aerolineas.com.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 23:00:36] local.INFO: Enviado a deptomedicoeze@aerolineas.com.ar el reporte de turnos para 2021-05-18  
+[2021-05-17 23:24:02] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-17 23:56:02] local.INFO: SMS no enviado, numero incorrecto:   

@@ -1,0 +1,458 @@
+[2021-05-09 00:16:52] local.INFO: Recordatorio de turnos por correo (5 dias): 239  en la cola  
+[2021-05-09 00:24:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 00:40:03] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 00:47:06] local.INFO: Recordatorio de turnos por correo (para mañana): 834  en la cola  
+[2021-05-09 01:24:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 01:40:03] local.INFO: SMS enviado a 1162485380  
+[2021-05-09 01:56:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 02:08:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 02:24:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 02:40:03] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 02:40:03] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 05:00:07] local.INFO: Reporte de turnos del dia 2021-05-09 para las 06:00:00:0  en la cola  
+[2021-05-09 05:16:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 05:32:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 06:08:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 06:24:01] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 06:48:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 07:00:04] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 07:16:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 08:00:07] local.INFO: SMS enviado a 1121618808  
+[2021-05-09 08:00:07] local.INFO: SMS enviado a +541161623233  
+[2021-05-09 08:00:49] local.INFO: Recordatorio de turnos por sms (para mañana): 184  en la cola  
+[2021-05-09 08:08:02] local.INFO: SMS enviado a +541161623233  
+[2021-05-09 08:08:02] local.INFO: SMS enviado a 111523877210  
+[2021-05-09 08:08:03] local.INFO: SMS enviado a 1566378952  
+[2021-05-09 08:08:03] local.INFO: SMS enviado a +541161623233  
+[2021-05-09 08:08:03] local.INFO: SMS enviado a 1121683914  
+[2021-05-09 08:08:03] local.INFO: SMS enviado a 1135061719  
+[2021-05-09 08:08:04] local.INFO: SMS enviado a 1149707517  
+[2021-05-09 08:08:04] local.INFO: SMS enviado a +541161623233  
+[2021-05-09 08:08:04] local.INFO: SMS enviado a 1126438756  
+[2021-05-09 08:08:04] local.INFO: SMS enviado a +541161623233  
+[2021-05-09 08:08:05] local.INFO: SMS enviado a +541161623233  
+[2021-05-09 08:08:05] local.INFO: SMS enviado a +541161623233  
+[2021-05-09 08:08:05] local.INFO: SMS enviado a 0296615487338  
+[2021-05-09 08:08:05] local.INFO: SMS enviado a 1155145187  
+[2021-05-09 08:08:05] local.INFO: SMS enviado a 1557410186  
+[2021-05-09 08:08:06] local.INFO: SMS enviado a 1557004042  
+[2021-05-09 08:08:06] local.INFO: SMS no enviado, numero incorrecto: 62483807  
+[2021-05-09 08:08:06] local.INFO: SMS enviado a 1559799275  
+[2021-05-09 08:08:06] local.INFO: SMS enviado a +541151793084  
+[2021-05-09 08:08:06] local.INFO: SMS enviado a 1164644012  
+[2021-05-09 08:08:06] local.INFO: SMS enviado a 1168835703  
+[2021-05-09 08:08:06] local.INFO: SMS enviado a 1137850021  
+[2021-05-09 08:08:07] local.INFO: SMS enviado a +541144470398  
+[2021-05-09 08:08:07] local.INFO: SMS enviado a 1544373183  
+[2021-05-09 08:08:07] local.INFO: SMS enviado a 1123693274  
+[2021-05-09 08:08:07] local.INFO: SMS enviado a 1121543937  
+[2021-05-09 08:08:07] local.INFO: SMS enviado a 1568549766  
+[2021-05-09 08:08:08] local.INFO: SMS enviado a 1139070633  
+[2021-05-09 08:08:08] local.INFO: SMS enviado a 01167800215  
+[2021-05-09 08:08:08] local.INFO: SMS enviado a 1158284557  
+[2021-05-09 08:08:08] local.INFO: SMS enviado a 1554222520  
+[2021-05-09 08:08:08] local.INFO: SMS enviado a +541150418419  
+[2021-05-09 08:08:08] local.INFO: SMS enviado a 1155059715  
+[2021-05-09 08:08:09] local.INFO: SMS enviado a 1159720856  
+[2021-05-09 08:08:09] local.INFO: SMS enviado a +541169935184  
+[2021-05-09 08:08:09] local.INFO: SMS enviado a +541161760001  
+[2021-05-09 08:08:09] local.INFO: SMS enviado a 1536156570  
+[2021-05-09 08:08:09] local.INFO: SMS enviado a +541161994481  
+[2021-05-09 08:08:09] local.INFO: SMS enviado a 1136752042  
+[2021-05-09 08:08:10] local.INFO: SMS enviado a 1161757974  
+[2021-05-09 08:08:10] local.INFO: SMS enviado a 1531815944  
+[2021-05-09 08:08:10] local.INFO: SMS enviado a 1538012664  
+[2021-05-09 08:08:10] local.INFO: SMS enviado a 1131241900  
+[2021-05-09 08:08:10] local.INFO: SMS enviado a 1141617595  
+[2021-05-09 08:08:10] local.INFO: SMS enviado a 1533441075  
+[2021-05-09 08:08:11] local.INFO: SMS enviado a 1136190176  
+[2021-05-09 08:08:11] local.INFO: SMS enviado a 136280022  
+[2021-05-09 08:08:11] local.INFO: SMS enviado a 1153276465  
+[2021-05-09 08:08:11] local.INFO: SMS enviado a 1154668024  
+[2021-05-09 08:08:11] local.INFO: SMS enviado a 1148882820  
+[2021-05-09 08:08:11] local.INFO: SMS enviado a +541131381985  
+[2021-05-09 08:08:12] local.INFO: SMS enviado a 1540998810  
+[2021-05-09 08:08:12] local.INFO: SMS enviado a 1140608000  
+[2021-05-09 08:08:12] local.INFO: SMS enviado a 1145585873  
+[2021-05-09 08:08:12] local.INFO: SMS enviado a 1134392206  
+[2021-05-09 08:08:12] local.INFO: SMS enviado a 1569497238  
+[2021-05-09 08:08:12] local.INFO: SMS enviado a 1131818253  
+[2021-05-09 08:08:13] local.INFO: SMS enviado a 1161850910  
+[2021-05-09 08:08:13] local.INFO: SMS enviado a +541122347549  
+[2021-05-09 08:08:13] local.INFO: SMS enviado a 1155670027  
+[2021-05-09 08:08:13] local.INFO: SMS enviado a 1151120473  
+[2021-05-09 08:08:13] local.INFO: SMS enviado a 1141877281  
+[2021-05-09 08:08:13] local.INFO: SMS enviado a 1157556026  
+[2021-05-09 08:08:14] local.INFO: SMS enviado a +541136860407  
+[2021-05-09 08:08:14] local.INFO: SMS enviado a 1141879693  
+[2021-05-09 08:08:14] local.INFO: SMS enviado a 1136728742  
+[2021-05-09 08:08:14] local.INFO: SMS no enviado, numero incorrecto: 54  
+[2021-05-09 08:08:14] local.INFO: SMS enviado a 1562515730  
+[2021-05-09 08:08:14] local.INFO: SMS enviado a 91153856860  
+[2021-05-09 08:08:14] local.INFO: SMS enviado a 1140688431  
+[2021-05-09 08:08:15] local.INFO: SMS enviado a 1164399347  
+[2021-05-09 08:08:15] local.INFO: SMS enviado a 1168779366  
+[2021-05-09 08:08:15] local.INFO: SMS enviado a +541157474540  
+[2021-05-09 08:08:15] local.INFO: SMS enviado a +541165136690  
+[2021-05-09 08:08:15] local.INFO: SMS enviado a 1131959386  
+[2021-05-09 08:08:15] local.INFO: SMS enviado a 1154545944  
+[2021-05-09 08:08:16] local.INFO: SMS enviado a 1531344908  
+[2021-05-09 08:08:16] local.INFO: SMS no enviado, numero incorrecto: 54  
+[2021-05-09 08:08:16] local.INFO: SMS enviado a 1131813022  
+[2021-05-09 08:08:16] local.INFO: SMS enviado a 1123693278  
+[2021-05-09 08:08:16] local.INFO: SMS enviado a 1138258428  
+[2021-05-09 08:08:16] local.INFO: SMS enviado a 1530228194  
+[2021-05-09 08:08:16] local.INFO: SMS enviado a 1554617239  
+[2021-05-09 08:08:17] local.INFO: SMS enviado a +541523364351  
+[2021-05-09 08:08:17] local.INFO: SMS enviado a 1132672917  
+[2021-05-09 08:08:17] local.INFO: SMS enviado a +541141707320  
+[2021-05-09 08:08:17] local.INFO: SMS enviado a 1154826282  
+[2021-05-09 08:08:17] local.INFO: SMS enviado a +541122414602  
+[2021-05-09 08:08:17] local.INFO: SMS enviado a 1158135095  
+[2021-05-09 08:08:18] local.INFO: SMS enviado a +541161752610  
+[2021-05-09 08:08:18] local.INFO: SMS enviado a 1538121080  
+[2021-05-09 08:08:18] local.INFO: SMS enviado a 1158751376  
+[2021-05-09 08:08:18] local.INFO: SMS enviado a 1567632914  
+[2021-05-09 08:08:18] local.INFO: SMS enviado a 1540511176  
+[2021-05-09 08:08:18] local.INFO: SMS enviado a 1151214455  
+[2021-05-09 08:08:19] local.INFO: SMS enviado a +5401150176406  
+[2021-05-09 08:08:19] local.INFO: SMS enviado a 2923457950  
+[2021-05-09 08:08:19] local.INFO: SMS enviado a 1164094390  
+[2021-05-09 08:08:19] local.INFO: SMS enviado a +541168786519  
+[2021-05-09 08:08:19] local.INFO: SMS enviado a +5491167456169  
+[2021-05-09 08:16:03] local.INFO: SMS enviado a 1544469297  
+[2021-05-09 08:16:03] local.INFO: SMS enviado a 1151321993  
+[2021-05-09 08:16:03] local.INFO: SMS enviado a 1165137677  
+[2021-05-09 08:16:03] local.INFO: SMS enviado a 1133510412  
+[2021-05-09 08:16:04] local.INFO: SMS enviado a 1540494752  
+[2021-05-09 08:16:04] local.INFO: SMS enviado a 1155276231  
+[2021-05-09 08:16:04] local.INFO: SMS enviado a 1540416391  
+[2021-05-09 08:16:04] local.INFO: SMS enviado a 1138237483  
+[2021-05-09 08:16:04] local.INFO: SMS enviado a 1553277811  
+[2021-05-09 08:16:05] local.INFO: SMS enviado a 1164138079  
+[2021-05-09 08:16:05] local.INFO: SMS enviado a 1150089057  
+[2021-05-09 08:16:05] local.INFO: SMS enviado a 3426878333  
+[2021-05-09 08:16:05] local.INFO: SMS enviado a 1160215732  
+[2021-05-09 08:16:05] local.INFO: SMS enviado a +541140280453  
+[2021-05-09 08:16:06] local.INFO: SMS enviado a 01150517090  
+[2021-05-09 08:16:06] local.INFO: SMS enviado a 1561291166  
+[2021-05-09 08:16:06] local.INFO: SMS enviado a 1166503216  
+[2021-05-09 08:16:06] local.INFO: SMS enviado a 1130092007  
+[2021-05-09 08:16:06] local.INFO: SMS enviado a 1156695482  
+[2021-05-09 08:16:07] local.INFO: SMS enviado a 1168075190  
+[2021-05-09 08:16:07] local.INFO: SMS enviado a 1146737827  
+[2021-05-09 08:16:07] local.INFO: SMS enviado a 1158169595  
+[2021-05-09 08:16:07] local.INFO: SMS enviado a 1132052366  
+[2021-05-09 08:16:07] local.INFO: SMS enviado a 1559588146  
+[2021-05-09 08:16:08] local.INFO: SMS enviado a 1136924510  
+[2021-05-09 08:16:08] local.INFO: SMS enviado a 1132940365  
+[2021-05-09 08:16:08] local.INFO: SMS enviado a 1534095183  
+[2021-05-09 08:16:08] local.INFO: SMS enviado a 568812041  
+[2021-05-09 08:16:08] local.INFO: SMS enviado a 1167287570  
+[2021-05-09 08:16:08] local.INFO: SMS enviado a +541130098386  
+[2021-05-09 08:16:09] local.INFO: SMS enviado a 1168293416  
+[2021-05-09 08:16:09] local.INFO: SMS enviado a 1159476758  
+[2021-05-09 08:16:09] local.INFO: SMS enviado a 1169775169  
+[2021-05-09 08:16:09] local.INFO: SMS enviado a 1140677014  
+[2021-05-09 08:16:09] local.INFO: SMS enviado a 1150038385  
+[2021-05-09 08:16:09] local.INFO: SMS enviado a 1553154394  
+[2021-05-09 08:16:10] local.INFO: SMS enviado a 1150090412  
+[2021-05-09 08:16:10] local.INFO: SMS enviado a 1135121240  
+[2021-05-09 08:16:10] local.INFO: SMS enviado a 1154219445  
+[2021-05-09 08:16:10] local.INFO: SMS enviado a 3425057799  
+[2021-05-09 08:16:10] local.INFO: SMS enviado a 1140273664  
+[2021-05-09 08:16:10] local.INFO: SMS enviado a 1131429981  
+[2021-05-09 08:16:11] local.INFO: SMS enviado a 1161994481  
+[2021-05-09 08:16:11] local.INFO: SMS enviado a 1565402683  
+[2021-05-09 08:16:11] local.INFO: SMS enviado a 1139519225  
+[2021-05-09 08:16:11] local.INFO: SMS enviado a 1556450687  
+[2021-05-09 08:16:11] local.INFO: SMS enviado a 1130256957  
+[2021-05-09 08:16:11] local.INFO: SMS enviado a 1168471949  
+[2021-05-09 08:16:12] local.INFO: SMS enviado a 1159265384  
+[2021-05-09 08:16:12] local.INFO: SMS enviado a 1154237833  
+[2021-05-09 08:16:12] local.INFO: SMS enviado a 1167055976  
+[2021-05-09 08:16:12] local.INFO: SMS enviado a 1135015909  
+[2021-05-09 08:16:12] local.INFO: SMS enviado a 1151566937  
+[2021-05-09 08:16:12] local.INFO: SMS enviado a 3434062372  
+[2021-05-09 08:16:13] local.INFO: SMS enviado a 1140445808  
+[2021-05-09 08:16:13] local.INFO: SMS enviado a +541155626805  
+[2021-05-09 08:16:13] local.INFO: SMS enviado a 01163603653  
+[2021-05-09 08:16:13] local.INFO: SMS enviado a 1130412330  
+[2021-05-09 08:16:13] local.INFO: SMS enviado a 1161120216  
+[2021-05-09 08:16:13] local.INFO: SMS enviado a 1160597669  
+[2021-05-09 08:16:14] local.INFO: SMS enviado a 1167970330  
+[2021-05-09 08:16:14] local.INFO: SMS enviado a +541169670282  
+[2021-05-09 08:16:14] local.INFO: SMS enviado a 1141783407  
+[2021-05-09 08:16:14] local.INFO: SMS enviado a 113331829344  
+[2021-05-09 08:16:14] local.INFO: SMS enviado a 1164955746  
+[2021-05-09 08:16:14] local.INFO: SMS enviado a +541135920070  
+[2021-05-09 08:16:15] local.INFO: SMS enviado a 1167049494  
+[2021-05-09 08:16:15] local.INFO: SMS enviado a 1565621981  
+[2021-05-09 08:16:15] local.INFO: SMS enviado a 1150007152  
+[2021-05-09 08:16:15] local.INFO: SMS enviado a 541165289466  
+[2021-05-09 08:16:15] local.INFO: SMS enviado a 1169200082  
+[2021-05-09 08:16:15] local.INFO: SMS enviado a 2494481890  
+[2021-05-09 08:16:16] local.INFO: SMS enviado a 1163615537  
+[2021-05-09 08:16:16] local.INFO: SMS enviado a 1167563834  
+[2021-05-09 08:16:16] local.INFO: SMS enviado a 1540262927  
+[2021-05-09 08:16:16] local.INFO: SMS enviado a 1153297219  
+[2021-05-09 08:16:16] local.INFO: SMS enviado a 1130443960  
+[2021-05-09 08:16:16] local.INFO: SMS enviado a 01150576504  
+[2021-05-09 08:16:17] local.INFO: SMS enviado a 1152601651  
+[2021-05-09 08:16:17] local.INFO: SMS enviado a 1169001451  
+[2021-05-09 08:16:17] local.INFO: SMS enviado a 1136449940  
+[2021-05-09 08:16:17] local.INFO: SMS no enviado, numero incorrecto: 50644350  
+[2021-05-09 08:24:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 08:24:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 08:32:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 08:32:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 09:08:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 09:08:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 09:16:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 09:16:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 09:16:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 09:24:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 09:24:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 09:32:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 09:40:03] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 09:40:03] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 09:44:10] local.INFO: cancelo turno 176-1374068 desde smsfacil por curl   
+[2021-05-09 09:48:02] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-09 10:24:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 10:32:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 10:32:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 10:48:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 10:48:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 10:56:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 11:08:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 11:24:02] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-09 11:40:04] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 11:56:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 12:00:04] local.INFO: SMS enviado a 1162485380  
+[2021-05-09 12:08:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 12:08:03] local.INFO: SMS enviado a 1162485380  
+[2021-05-09 12:08:03] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 12:32:02] local.INFO: SMS enviado a 1162485380  
+[2021-05-09 12:32:02] local.INFO: SMS enviado a 1162485380  
+[2021-05-09 12:32:03] local.INFO: SMS enviado a 1162485380  
+[2021-05-09 12:32:03] local.INFO: SMS enviado a 1162485380  
+[2021-05-09 12:32:03] local.INFO: SMS enviado a 1162485380  
+[2021-05-09 12:40:04] local.INFO: SMS enviado a 1162485380  
+[2021-05-09 12:40:04] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 12:40:05] local.INFO: SMS enviado a 1162485380  
+[2021-05-09 12:40:05] local.INFO: SMS enviado a 1162485380  
+[2021-05-09 12:40:05] local.INFO: SMS enviado a 1162485380  
+[2021-05-09 12:40:06] local.INFO: SMS enviado a 1140629812  
+[2021-05-09 12:48:02] local.INFO: SMS enviado a 1140629812  
+[2021-05-09 12:48:02] local.INFO: SMS enviado a 1140629812  
+[2021-05-09 12:48:03] local.INFO: SMS enviado a 1140629812  
+[2021-05-09 12:48:03] local.INFO: SMS enviado a 1140629812  
+[2021-05-09 12:48:03] local.INFO: SMS enviado a 1140629812  
+[2021-05-09 12:48:04] local.INFO: SMS enviado a 1140629812  
+[2021-05-09 12:56:03] local.INFO: SMS enviado a 1162485380  
+[2021-05-09 12:56:03] local.INFO: SMS enviado a 1162485380  
+[2021-05-09 13:00:04] local.INFO: SMS enviado a 1162485380  
+[2021-05-09 13:00:04] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 13:08:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 13:16:03] local.INFO: SMS enviado a 1162485380  
+[2021-05-09 13:16:04] local.INFO: SMS enviado a 1162485380  
+[2021-05-09 13:16:04] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 13:16:04] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 13:16:04] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 13:24:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 13:24:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 13:24:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 13:24:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 13:40:03] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 13:48:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 13:48:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 13:56:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 13:56:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 13:56:02] local.INFO: SMS enviado a 1162485380  
+[2021-05-09 14:00:03] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 14:08:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 14:08:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 14:16:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 14:16:02] local.INFO: SMS enviado a 1162485380  
+[2021-05-09 14:16:03] local.INFO: SMS enviado a 1162485380  
+[2021-05-09 14:24:02] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-09 14:24:03] local.INFO: SMS enviado a 1162485380  
+[2021-05-09 14:32:02] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-09 14:40:04] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-09 14:40:04] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 14:40:04] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-09 14:48:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 14:48:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 14:48:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 14:56:01] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-09 14:56:01] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 14:56:01] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 14:56:01] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 15:00:04] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 15:00:04] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 15:08:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 15:08:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 15:24:02] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-09 15:24:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 15:56:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 16:00:03] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 16:00:12] local.INFO: Reporte de turnos del dia 2021-05-09 para las 17:00:00:57  en la cola  
+[2021-05-09 16:16:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 16:16:03] local.INFO: SMS enviado a 1162485380  
+[2021-05-09 16:16:03] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-09 16:24:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 16:32:02] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-09 16:40:03] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-09 16:48:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 16:56:01] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-09 16:56:01] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 17:00:05] local.INFO: Enviado a norali@ellenainmobiliaria.com.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 17:00:06] local.INFO: Enviado a contacto@ellenainmobiliaria.com.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 17:00:06] local.INFO: Enviado a cobranzas@ellenainmobiliaria.com.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 17:00:08] local.INFO: Enviado a majmilani@gmail.com el reporte de turnos para 2021-05-10  
+[2021-05-09 17:00:08] local.INFO: Enviado a majmilani@gmail.com el reporte de turnos para 2021-05-10  
+[2021-05-09 17:00:15] local.INFO: Enviado a info@neumovil.com.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 17:00:16] local.INFO: Enviado a juzgadoelectoral-fd@jusneuquen.gov.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 17:00:17] local.INFO: Enviado a JuzgadoElectoral-FD@jusneuquen.gov.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 17:00:20] local.INFO: Enviado a turnosrpc@jusneuquen.gov.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 17:00:21] local.INFO: Enviado a turnosrpc@jusneuquen.gov.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 17:05:07] local.INFO: Enviado a ufatencionalpublicompfnq@jusneuquen.gov.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 17:05:07] local.INFO: Enviado a ufatencionalpublicompfnq@jusneuquen.gov.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 17:05:08] local.INFO: Enviado a aedufempfnq@jusneuquen.gov.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 17:05:08] local.INFO: Enviado a ufapyacmpfjufd@jusneuquen.gov.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 17:05:09] local.INFO: Enviado a ufapyacmpfsmafd@jusneuquen.gov.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 17:05:26] local.INFO: Enviado a turnoscirc1@gmail.com el reporte de turnos para 2021-05-10  
+[2021-05-09 17:05:27] local.INFO: Enviado a JuzgadodeFamilia-Junin@jusneuquen.gov.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 17:05:28] local.INFO: Enviado a OficinaJudicialCivil-NQN-FD@jusneuquen.gov.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 17:05:28] local.INFO: Enviado a ofilabnqfd@jusneuquen.gov.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 17:05:29] local.INFO: Enviado a meufanq@jusneuquen.gov.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 17:10:03] local.INFO: Enviado a MesadeEntradasUnicaJuzgadoJuiciosEjecutivos-FD@jusneuquen.gov.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 17:10:05] local.INFO: Enviado a SecretariaCivildelTSJ-FD@jusneuquen.gov.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 17:10:05] local.INFO: Enviado a ccivnqfd@jusneuquen.gov.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 17:10:06] local.INFO: Enviado a MesadeEntradasOPANQ-FD@jusneuquen.gov.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 17:10:07] local.INFO: Enviado a JuzgadoCivildeRincondelosSauces@jusneuquen.gov.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 17:10:07] local.INFO: Enviado a OficinadeViolencia@jusneuquen.gov.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 17:10:08] local.INFO: Enviado a ojpazapfd@jusneuquen.gov.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 17:10:08] local.INFO: Enviado a jciv1cu@jusneuquen.gov.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 17:10:09] local.INFO: Enviado a jciv2cufd@jusneuquen.gov.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 17:10:10] local.INFO: Enviado a JuzgadodeFamilia-CutralCo@jusneuquen.gov.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 17:15:03] local.INFO: Enviado a jciv1s1zafd@jusneuquen.gov.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 17:15:04] local.INFO: Enviado a JuzgadodeFamiliayJuiciosEjecutivos2-Zapala@jusneuquen.gov.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 17:15:04] local.INFO: Enviado a oapygccismafd@jusneuquen.gov.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 17:15:05] local.INFO: Enviado a JuzgadoCivildeJunindelosAndes@jusneuquen.gov.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 17:15:05] local.INFO: Enviado a jciv2ju@jusneuquen.gov.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 17:15:06] local.INFO: Enviado a JuzgadoTodoslosFueros-VillalaAngostura@jusneuquen.gov.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 17:15:07] local.INFO: Enviado a JuzgadoCivildeChosMalal@jusneuquen.gov.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 17:15:07] local.INFO: Enviado a JuzgadodeFamilia-ChosMalal@jusneuquen.gov.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 17:15:08] local.INFO: Enviado a turnosmalito@gmail.com el reporte de turnos para 2021-05-10  
+[2021-05-09 17:15:09] local.INFO: Enviado a admin@malito.com.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 17:20:04] local.INFO: Enviado a admin@malito.com.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 17:20:08] local.INFO: Enviado a turnos@libraseguros.com.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 17:20:08] local.INFO: Enviado a turnos@libraseguros.com.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 17:20:09] local.INFO: Enviado a mcastelli@libraseguros.com.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 17:20:17] local.INFO: Enviado a turnosrpi@jusneuquen.gov.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 17:20:17] local.INFO: Enviado a turnosrpi@jusneuquen.gov.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 17:20:20] local.INFO: Enviado a cnevi@hotmail.com el reporte de turnos para 2021-05-10  
+[2021-05-09 17:20:28] local.INFO: Enviado a consultoriointegralarenales@hotmail.com el reporte de turnos para 2021-05-10  
+[2021-05-09 17:20:29] local.INFO: Enviado a drgabrieltoledo@yahoo.com.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 17:20:29] local.INFO: Enviado a dr.angheben@gmail.com el reporte de turnos para 2021-05-10  
+[2021-05-09 17:25:03] local.INFO: Enviado a bugarin.jose@gmail.com el reporte de turnos para 2021-05-10  
+[2021-05-09 17:25:04] local.INFO: Enviado a sarandreucci@gmail.com el reporte de turnos para 2021-05-10  
+[2021-05-09 17:25:04] local.INFO: Enviado a catalinaalexenicer@hotmail.com el reporte de turnos para 2021-05-10  
+[2021-05-09 17:25:05] local.INFO: Enviado a fabianberuschi@hotmail.com el reporte de turnos para 2021-05-10  
+[2021-05-09 17:25:06] local.INFO: Enviado a admventashelvetica@gmail.com el reporte de turnos para 2021-05-10  
+[2021-05-09 17:25:07] local.INFO: Enviado a info@helvetica.com.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 17:25:07] local.INFO: Enviado a info@helvetica.com.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 17:56:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 18:16:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 18:24:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 18:32:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 18:32:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 18:32:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 18:40:03] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 18:56:02] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-09 19:00:07] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 19:00:07] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 19:00:15] local.INFO: Reporte de turnos del dia 2021-05-09 para las 20:00:00:15  en la cola  
+[2021-05-09 19:32:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 19:32:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 19:40:03] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 19:48:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 19:56:02] local.INFO: SMS enviado a 1162485380  
+[2021-05-09 19:56:03] local.INFO: SMS enviado a 1162485380  
+[2021-05-09 20:00:10] local.INFO: Enviado a atencionalcliente@jazminchebar.com.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 20:00:11] local.INFO: Enviado a salvador@jazminchebar.com.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 20:00:11] local.INFO: Enviado a rosario@jazminchebar.com.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 20:00:12] local.INFO: Enviado a localpalermo@jazminchebar.com.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 20:00:13] local.INFO: Enviado a rosario@jazminchebar.com.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 20:00:14] local.INFO: Enviado a iamartino.nutri@gmail.com el reporte de turnos para 2021-05-10  
+[2021-05-09 20:00:15] local.INFO: Enviado a iamartino.nutri@gmail.com el reporte de turnos para 2021-05-10  
+[2021-05-09 20:00:16] local.INFO: Enviado a jmorellana@sodimac.com.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 20:00:17] local.INFO: Enviado a jmorellana@sodimac.com.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 20:00:30] local.INFO: Enviado a adelarosana@gmail.com el reporte de turnos para 2021-05-10  
+[2021-05-09 20:05:04] local.INFO: Enviado a gracielaallinlewis@hotmail.com el reporte de turnos para 2021-05-10  
+[2021-05-09 20:05:07] local.INFO: Enviado a anamcarro@yahoo.com.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 20:05:08] local.INFO: Enviado a monicagvera@hotmail.com el reporte de turnos para 2021-05-10  
+[2021-05-09 20:05:08] local.INFO: Enviado a Alapontmarisa@yahoo.com.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 20:05:09] local.INFO: Enviado a afainboim@gmail.com el reporte de turnos para 2021-05-10  
+[2021-05-09 20:08:02] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-09 20:08:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 20:16:02] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-09 20:16:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 20:24:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 20:32:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 20:32:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 20:32:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 20:40:05] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 20:48:02] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-09 20:48:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 21:08:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 21:08:03] local.INFO: SMS enviado a 1162485380  
+[2021-05-09 21:08:03] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 21:08:03] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-09 21:16:02] local.INFO: SMS enviado a 1162485380  
+[2021-05-09 21:16:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 21:16:02] local.INFO: SMS enviado a 1162485380  
+[2021-05-09 21:24:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 21:24:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 21:24:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 21:32:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 21:32:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 21:40:03] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 21:40:03] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 21:40:03] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 21:40:03] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-09 21:40:03] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 21:40:03] local.INFO: SMS no enviado, numero incorrecto: 41303318  
+[2021-05-09 21:48:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 21:48:02] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-09 21:56:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 22:00:04] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 22:00:10] local.INFO: Reporte de turnos del dia 2021-05-09 para las 23:00:00:10  en la cola  
+[2021-05-09 22:08:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 22:08:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 22:08:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 22:24:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 22:24:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 22:32:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 22:40:04] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 22:40:05] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 22:56:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 22:56:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 23:00:03] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 23:00:06] local.INFO: Enviado a cv.fisioterapia.vet@gmail.com el reporte de turnos para 2021-05-10  
+[2021-05-09 23:00:07] local.INFO: Enviado a espaciokosmos@gmail.com el reporte de turnos para 2021-05-10  
+[2021-05-09 23:00:08] local.INFO: Enviado a marianaamado84@gmail.com el reporte de turnos para 2021-05-10  
+[2021-05-09 23:00:08] local.INFO: Enviado a marianaamado84@gmail.com el reporte de turnos para 2021-05-10  
+[2021-05-09 23:00:14] local.INFO: Enviado a turnos@dgttucuman.gov.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 23:00:15] local.INFO: Enviado a jatorrado@yahoo.com el reporte de turnos para 2021-05-10  
+[2021-05-09 23:00:16] local.INFO: Enviado a TURNOS@dgttucuman.gov.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 23:00:28] local.INFO: Enviado a deptomedicoeze@aerolineas.com.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 23:00:29] local.INFO: Enviado a deptomedicoaep@aerolineas.com.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 23:00:29] local.INFO: Enviado a deptomedicoeze@aerolineas.com.ar el reporte de turnos para 2021-05-10  
+[2021-05-09 23:16:02] local.INFO: SMS no enviado, numero incorrecto:   
+[2021-05-09 23:24:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 23:24:03] local.INFO: SMS enviado a 1162485380  
+[2021-05-09 23:32:02] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 23:40:03] local.INFO: SMS no enviado, numero incorrecto: 44805236  
+[2021-05-09 23:40:03] local.INFO: SMS no enviado, numero incorrecto: 44805236  
